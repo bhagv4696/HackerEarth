@@ -1,0 +1,6 @@
+First I add the header to the tranning and testing data file from the contest page so it easy to access them while coding.
+labels of the columns are as follows:
+'Id', 'Influential', 'Kundan_follower', 'Kundan_following', 'Kundan_mentions_r', 'Kundan_retweets_r', 'Kundan_mentions_s', 'Kundan_retweets_s', 'Kundan_posts', 'Hritik_follower', 'Hritik_following', 'Hritik_mentions_r', 'Hritik_retweets_r', 'Hritik_mentions_s', 'Hritik_retweets_s', 'Hritik_posts'
+
+How to run
+Put "ml.py" and "train_data.csv" and "test_data.csv" file into same folder and then run "ml.py"
